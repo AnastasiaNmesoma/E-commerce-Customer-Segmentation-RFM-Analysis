@@ -16,7 +16,7 @@ This project analyzes **500K+ e-commerce transactions** to uncover customer beha
 - Tableau – Dashboarding & segmentation analysis
 
 ## Important Note:
-For full context, including project objectives, data preparation steps, and logic behind the analysis please refer to the [Project documentation](Documentation:%20Customer%20Segmentation%20for%20Loyalty%20program.md)
+For full context, including project objectives, data preparation steps, and logic behind the analysis please refer to the [Project documentation](Technical%20Documentation.md)
 
 ## Business Understanding & Goal
 The primary goal of this analysis is to help the business understand its customer base in depth. who the most valuable customers are, how frequently they return, and which regions contribute most to overall revenue. 
@@ -104,7 +104,7 @@ Ultimately, the business wants to reduce churn, improve loyalty, and grow revenu
 | Frequent Buyers with high spend      | Convert into **Champions** via loyalty perks & recognition.      |
 | At Risk customers                    | Deploy **win-back campaigns** (discounts, re-engagement offers). |
 
-For full Executive stakeholder report refer to the [Executive report](Executive%20Report:%20Customer%20Distribution%20&%20Revenue%20Concentration.md)
+For full Executive stakeholder report refer to the [Executive report](Executive%20Report.md)
 
 ## Conclusion
 This Tableau dashboard provides a 360° view of customer behavior—from purchase recency and loyalty to geographic spread and retention trends. The analysis confirms that growth opportunities lie in market diversification, nurturing mid-tier customers, and protecting top contributors.
